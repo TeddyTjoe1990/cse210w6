@@ -1,4 +1,5 @@
 from game.scripting.action import Action
+from pathlib import Path
 
 
 class LoadAssetsAction(Action):
