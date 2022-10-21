@@ -36,4 +36,5 @@ root                    (project root folder)
 * Raylib Python CFFI 3.7
 
 ## Authors
+---
 Teddy Tjoe - jethe90@gmail.com
